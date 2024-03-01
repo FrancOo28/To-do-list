@@ -1,0 +1,39 @@
+body{
+
+    background-color: #00BCD4;
+    color: whitesmoke;
+    
+}
+
+
+.todo{
+
+    border: black solid 3px;
+    padding: 10px;  
+    margin: auto;
+    text-align: center;
+    height: auto;
+    width: 40%;
+    margin-left:auto;
+    margin-right: auto;
+    
+}
+
+.h3{
+    color: aliceblue;
+}
+
+p{
+    border: black solid 3px;
+    width: 60%;
+    text-align: center;
+    margin-left:auto;
+    margin-right: auto;
+    border-radius: 30px;
+   
+}
+
+.padre{
+
+    display: block;
+}
